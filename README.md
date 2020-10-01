@@ -17,7 +17,7 @@
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/typescript.png" width="30" height="30" align="center"/>
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/react.png" width="30" height="30" align="center"/>
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/redux.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/Luciobio/Luciobio/blob/master/img/webpack.jpg" width="30" height="30" align="center"/>
+  <img src="https://github.com/Luciobio/Luciobio/blob/master/img/webpack.png" width="30" height="30" align="center"/>
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/nodejs.png" width="30" height="30" align="center"/>
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/express.png" width="30" height="30" align="center"/>
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/postgresql.png" width="30" height="30" align="center"/>
