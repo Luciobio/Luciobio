@@ -8,7 +8,8 @@
 - 📫 How to reach me: pardobio@gmail.com, +5493875060613
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
-<h2 align="center">Skills</h2>
+
+### Technical skills:
   <p align="center"><img src="https://github.com/acroooo/acroooo/blob/master/img/html-5.png" width="50" height="50" align="center"/>
   <img src="https://github.com/acroooo/acroooo/blob/master/img/css.png" width="50" height="50" align="center"/> 
   <img src="https://github.com/acroooo/acroooo/blob/master/img/javascript.png" width="50" height="50" align="center"/>
