@@ -24,3 +24,5 @@
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/mocha.png" width="30" height="30" align="center"/>
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/linux.png" width="30" height="30" align="center"/>
 </p>
+
+### Web resume: https://my-resume-snowy.vercel.app/
