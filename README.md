@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Henry Labs (Henry coding bootcamp final proyect)
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning Firebase, Angular, Python
 - 👯 I’m looking to collaborate on Full-stack proyects
-- 🤔 I’m looking for help with teaching 
 - 💬 Ask me about anything!
 - 📫 How to reach me: +5493875060613
 - 😄 Pronouns: He/Him
