@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Henry Labs (Henry coding bootcamp final proyect)
+- 🔭 I’m currently working on my web developer portfolio
 - 🌱 I’m currently learning Firebase, Angular, Python
 - 👯 I’m looking to collaborate on Full-stack proyects
 - 💬 Ask me about anything!
