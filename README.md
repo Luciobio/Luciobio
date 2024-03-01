@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 3DUS, as Digital Marketing and Web Speciallist.
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on Front-end proyects
 - 💬 Ask me about anything!
 - 📫 How to reach me: +5493875060613
