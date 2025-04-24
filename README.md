@@ -24,4 +24,4 @@
   <img src="https://github.com/Luciobio/Luciobio/blob/master/img/linux.png" width="30" height="30" align="center"/>
 </p>
 
-### Web resume: https://pardo-resume.vercel.app/
+### My Portfolio: https://luciobio.vercel.app/
